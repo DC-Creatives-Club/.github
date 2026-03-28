@@ -9,6 +9,7 @@ Here are a collection of public, open-source projects that members have shared.
 - [vibrational-modes-plates](https://github.com/DC-Creatives-Club/vibrational-modes-plates)
 - [3d-fractal-triangular-pyramid](https://github.com/DC-Creatives-Club/3d-fractal-triangular-pyramid)
 - [synesthesiaer](https://github.com/DC-Creatives-Club/synesthesiaer)
+- [fractal-designs](https://github.com/DC-Creatives-Club/fractal-designs)
 
 If you would like to learn more about the club, please visit: [https://creativesclub.art](https://creativesclub.art)
 
